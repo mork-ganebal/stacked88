@@ -1,2 +1,5 @@
 # stacked88
-stackedboard
+
+abandoned project
+nothing tested
+uses f13
